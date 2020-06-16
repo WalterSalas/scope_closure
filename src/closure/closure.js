@@ -14,7 +14,7 @@ moneyBox(10);
 //     var saveCoins = 0;
 //     saveCoins += coins;
 //     console.log(`MoneyBox: $${saveCoins}`);
-// }          
+// }
 
 // moneyBox(5);
 // moneyBox(10);
@@ -26,7 +26,7 @@ const moneyBox = () => {
         console.log(`MoneyBox: $${saveCoins}`);
     }
     return countCoins;
-}          
+}
 
 let myMoneyBox = moneyBox();
 
